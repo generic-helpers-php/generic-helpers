@@ -9,15 +9,7 @@
 </p>
 
 ------
-This package provides a wonderful **PHP Skeleton** to start building your next package idea.
-
-> **Requires [PHP 8.3+](https://php.net/releases/)**
-
-⚡️ Create your package using [Composer](https://getcomposer.org):
-
-```bash
-composer create-project generic-helpers-php/generic-helpers --prefer-source PackageName
-```
+Just a few useful bits of compiled functionality for PHP
 
 🧹 Keep a modern codebase with **Pint**:
 ```bash
